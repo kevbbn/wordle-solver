@@ -7,7 +7,8 @@ clone the repo or just download it :)
 
 ## Usage
 
-```python3 solver.py
+```bash
+python3 solver.py
 ```
 
 ## License
